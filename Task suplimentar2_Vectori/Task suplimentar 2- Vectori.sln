@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task suplimentar 2- Vectori", "Task suplimentar 2- Vectori\Task suplimentar 2- Vectori.vcxproj", "{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Debug|x64.ActiveCfg = Debug|x64
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Debug|x64.Build.0 = Debug|x64
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Debug|x86.Build.0 = Debug|Win32
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Release|x64.ActiveCfg = Release|x64
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Release|x64.Build.0 = Release|x64
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Release|x86.ActiveCfg = Release|Win32
+		{1B61C5A4-475B-40A0-84B4-6998A7E57CDE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {599ABD84-6EAA-46E6-9BED-24819E4FCE8C}
+	EndGlobalSection
+EndGlobal
