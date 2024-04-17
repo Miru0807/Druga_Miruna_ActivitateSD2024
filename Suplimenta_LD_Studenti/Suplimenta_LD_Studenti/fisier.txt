@@ -1,0 +1,4 @@
+3
+100 Ionescu 9
+200 Popescu 5
+350 Popovici 8
