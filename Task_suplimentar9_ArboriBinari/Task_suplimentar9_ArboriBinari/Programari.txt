@@ -1,0 +1,4 @@
+1 Ionescu Gigel 1.05 10:00 Dr.Marin
+2 Popescu Maria 2.05  11:30 Dr.Sava
+3 Barbulescu Viorel 3.05 09:00 Dr.Ion
+4 Slavescu Laura 4.05 14:00 Dr.Marinescu
